@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="generator" content="VuePress 2.0.0-beta.53">
+    <style>
+      :root {
+        --c-bg: #fff;
+      }
+      html.dark {
+        --c-bg: #22272e;
+      }
+      html, body {
+        background-color: var(--c-bg);
+      }
+    </style>
+    <script>
+      const userMode = localStorage.getItem('vuepress-color-scheme');
+			const systemDarkMode = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+			if (userMode === 'dark' || (userMode !== 'light' && systemDarkMode)) {
+				document.documentElement.classList.toggle('dark', true);
+			}
+    </script>
+    <link rel="icon" href="/images/favicon.ico"><title> | 不是人</title><meta name="description" content="这是我的第一个 VuePress 站点">
+    <link rel="preload" href="/java/assets/style.f53376fd.css" as="style" /><link rel="stylesheet" href="/java/assets/style.f53376fd.css" />
+    <link rel="modulepreload" href="/java/assets/app.f3d8b3ff.js"><link rel="modulepreload" href="/java/assets/404.html.ea551508.js"><link rel="modulepreload" href="/java/assets/404.html.d2dc3323.js"><link rel="prefetch" href="/java/assets/index.html.d2fc9e84.js" as="script" /><link rel="prefetch" href="/java/assets/index.html.9cb584ce.js" as="script" />
+  </head>
+  <body>
+    <div id="app"><!--[--><div class="theme-container"><main class="page"><div class="theme-default-content"><h1>404</h1><blockquote>Looks like we&#39;ve got some broken links.</blockquote><a href="/java/" class="">Take me home</a></div></main></div><!----><!--]--></div>
+    <script type="module" src="/java/assets/app.f3d8b3ff.js" defer></script>
+  </body>
+</html>
