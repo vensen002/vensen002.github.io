@@ -1,1 +1,0 @@
-import{_ as t,o as a,c as o,a as e,b as c}from"./app.7086d1d6.js";const r={},s=e("h1",{id:"首页",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#首页","aria-hidden":"true"},"#"),c(" 首页")],-1),n=[s];function _(d,h){return a(),o("div",null,n)}const l=t(r,[["render",_],["__file","home.html.vue"]]);export{l as default};

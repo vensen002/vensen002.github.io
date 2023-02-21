@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-25b47c13","path":"/others/","title":"markdown 基础语法","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"others/index.md"}');export{t as data};
