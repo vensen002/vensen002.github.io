@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-7c9babb2","path":"/interview/typescript/question/01.html","title":"TypeScript 的内置数据类型有哪些？","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1676648865000,"contributors":[{"name":"vensen002","email":"vensen002@outlook.com","commits":1}]},"filePathRelative":"interview/typescript/question/01.md"}');export{e as data};
